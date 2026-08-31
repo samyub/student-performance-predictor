@@ -1,0 +1,16 @@
+study_hours,attendance,assignments_completed,previous_score,result
+2,65,5,55,Need Improvement
+3,70,6,60,Need Improvement
+4,75,7,65,Pass
+5,80,8,70,Pass
+6,85,9,75,Pass
+7,90,10,82,Pass
+1,55,4,45,Need Improvement
+2,60,5,50,Need Improvement
+4,78,8,68,Pass
+3,72,7,62,Pass
+6,88,9,80,Pass
+1,50,3,40,Need Improvement
+5,82,8,73,Pass
+2,68,5,52,Need Improvement
+7,92,10,88,Pass
